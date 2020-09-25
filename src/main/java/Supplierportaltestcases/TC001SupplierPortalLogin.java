@@ -10,7 +10,7 @@ public class TC001SupplierPortalLogin extends ProjectWrappers {
     @BeforeClass
     public void beforeClass(){
         testCaseName="TC001 Supplier Portal Login";
-        testDescription="Reshma - To Validate login of supplier portal ";
+        testDescription="To Validate login of supplier portal ";
         author="Reshma";
         category="Regression";
         browserName="chrome";
